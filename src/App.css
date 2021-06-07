@@ -1,3 +1,6 @@
+body{
+  background-image: url("https://cdn.hipwallpaper.com/i/49/46/3qF2Ra.jpg");
+}
 .App {
   text-align: center;
 }
@@ -5,6 +8,15 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+#container{
+  
+  background-repeat: no-repeat;
+  background-size: 800px 300px;
+  background-color: rgba(0,0,0,0.5);
+}
+#container2{
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 @media (prefers-reduced-motion: no-preference) {
